@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "814931767269",
+    "firebase_url": "https://zalochat-9c171.firebaseio.com",
+    "project_id": "zalochat-9c171",
+    "storage_bucket": "zalochat-9c171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814931767269:android:0e419cdcc2c06525",
+        "android_client_info": {
+          "package_name": "com.example.computer.zalochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814931767269-nobf07psgo27ic9gjej3jqtp8h1c8dnv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.computer.zalochat",
+            "certificate_hash": "8ae882c4e6c1453eed070435d640e3fb8def26cb"
+          }
+        },
+        {
+          "client_id": "814931767269-3p7ed7mm3gffgksfjq3s5r664m7nrtfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCykIoCsxEEuM15EGPU_vbwtkDxP7vi8vk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814931767269-3p7ed7mm3gffgksfjq3s5r664m7nrtfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814931767269:android:2f69c63584f940fd",
+        "android_client_info": {
+          "package_name": "com.snapsofts.demofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814931767269-4dihn179dlu79slq84hoo41ut0kc7ne7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snapsofts.demofirebase",
+            "certificate_hash": "8ae882c4e6c1453eed070435d640e3fb8def26cb"
+          }
+        },
+        {
+          "client_id": "814931767269-3p7ed7mm3gffgksfjq3s5r664m7nrtfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCykIoCsxEEuM15EGPU_vbwtkDxP7vi8vk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814931767269-3p7ed7mm3gffgksfjq3s5r664m7nrtfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
